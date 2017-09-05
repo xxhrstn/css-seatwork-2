@@ -5,7 +5,8 @@ body {
 header,footer {
     background-color: gray;
     color: white;
-    overflow: hidden;    
+    overflow: hidden;  
+    width: 100%;
 }
 
 div#content {
