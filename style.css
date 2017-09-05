@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+}
+
+header,footer {
+    background-color: gray;
+    color: white;
+    overflow: hidden;    
+}
