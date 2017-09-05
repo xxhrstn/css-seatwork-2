@@ -7,3 +7,7 @@ header,footer {
     color: white;
     overflow: hidden;    
 }
+
+div#content {
+    margin: 10px;
+}
